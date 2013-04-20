@@ -5,6 +5,22 @@ A very simple Brainf*ck interpreter!
 
 I wrote this in 45 minutes for a challenge. Okey, I've to be honest: I've added tests later… TDD please forgive me! :)
 
+You can finally write:
+
+```
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+```
+
+and get a hypersuperfantastic:
+
+```
+Hello World!
+
+```
+
+printed out!
+
+
 The *comma* symbol is not implemented, so you cannot give inputs to the interpreter, but you should be able to do some fun stuff with it!
 
 Enjoy!
